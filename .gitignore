@@ -1,0 +1,6 @@
+# ferramentas de desenvolvimento
+.idea/
+nbproject/
+
+# bibliotecas de terceiros
+vendor/
