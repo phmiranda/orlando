@@ -1,6 +1,20 @@
 # ferramentas de desenvolvimento
 .idea/
 nbproject/
+.vscode/
+*.iml
+
+# comentário
+.env
+.config
+
+# comentário
+public/default.php
+
+# comentário
+composer.lock
+package-lock.json
 
 # bibliotecas de terceiros
+node_modules/
 vendor/
